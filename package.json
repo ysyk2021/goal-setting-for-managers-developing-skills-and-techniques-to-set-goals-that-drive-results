@@ -1,0 +1,15 @@
+{
+    "name": "goal-setting-for-managers-developing-skills-and-techniques-to-set-goals-that-drive-results",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
