@@ -1,5 +1,4 @@
-Chapter 7: Motivating Teams to Achieve Goals: Techniques for Motivating Teams to Achieve Goals
-==============================================================================================
+# Techniques for Motivating Teams to Achieve Goals
 
 Motivating teams to achieve goals is critical for ensuring that desired outcomes are achieved. In this chapter, we will explore techniques for motivating teams to achieve goals.
 

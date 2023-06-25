@@ -1,5 +1,4 @@
-Chapter 4: Developing SMART Goals: Techniques for Developing SMART Goals
-========================================================================
+# Techniques for Developing SMART Goals
 
 Developing SMART goals requires careful planning and consideration. This chapter will explore various techniques for developing SMART goals.
 

@@ -1,5 +1,4 @@
-Chapter 6: Managing Goal Progress and Performance: Tracking Metrics and Evaluating Success
-==========================================================================================
+# Tracking Metrics and Evaluating Success
 
 Tracking metrics and evaluating success is critical for managing goal progress and performance. In this chapter, we will explore techniques for tracking metrics and evaluating success.
 

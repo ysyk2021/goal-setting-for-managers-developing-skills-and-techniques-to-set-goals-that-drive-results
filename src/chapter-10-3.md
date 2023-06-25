@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Future Directions for Research and Practice
-===================================================================
+# Future Directions for Research and Practice
 
 In this final chapter, we will discuss potential future directions for research and practice in the field of goal setting for managers.
 

@@ -1,5 +1,4 @@
-Chapter 4: Developing SMART Goals: Prioritizing and Focusing on Key Objectives
-==============================================================================
+# Prioritizing and Focusing on Key Objectives
 
 Developing SMART goals is an effective way to ensure that objectives are well-defined and achievable. However, it is also important to prioritize and focus on key objectives in order to maximize productivity and achieve success. This chapter will explore various techniques for prioritizing and focusing on key objectives.
 

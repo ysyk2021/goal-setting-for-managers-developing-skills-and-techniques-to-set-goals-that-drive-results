@@ -1,5 +1,4 @@
-Chapter 5: Communicating Goals Effectively: Techniques for Communicating Goals Effectively
-==========================================================================================
+# Techniques for Communicating Goals Effectively
 
 Communicating goals effectively is critical for ensuring that everyone understands what is expected of them and remains motivated towards achieving them. In this chapter, we will explore techniques for communicating goals effectively.
 

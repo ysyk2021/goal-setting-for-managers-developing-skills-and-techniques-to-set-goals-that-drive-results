@@ -1,5 +1,4 @@
-Chapter 3: Aligning Goals with Organizational Objectives: Identifying Key Performance Indicators
-================================================================================================
+# Identifying Key Performance Indicators
 
 Aligning goals with organizational objectives is a crucial part of achieving success. This chapter will explore the process of identifying key performance indicators (KPIs) to help align goals with organizational objectives.
 

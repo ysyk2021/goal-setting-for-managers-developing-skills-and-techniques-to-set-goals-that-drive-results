@@ -1,5 +1,4 @@
-Chapter 7: Motivating Teams to Achieve Goals: Providing Support and Encouragement
-=================================================================================
+# Providing Support and Encouragement
 
 Motivating teams to achieve goals requires more than just setting objectives. It requires providing support and encouragement throughout the process. This chapter will explore various techniques for motivating teams to achieve goals.
 

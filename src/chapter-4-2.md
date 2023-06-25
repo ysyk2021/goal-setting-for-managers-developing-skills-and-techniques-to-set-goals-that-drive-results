@@ -1,5 +1,4 @@
-Chapter 4: Developing SMART Goals: Specific, Measurable, Achievable, Relevant, and Time-bound Criteria
-======================================================================================================
+# Specific, Measurable, Achievable, Relevant, and Time-bound Criteria
 
 Setting goals that are specific, measurable, achievable, relevant, and time-bound (SMART) is an effective way to ensure that goals are well-defined and attainable. This chapter will explore the criteria for developing SMART goals.
 

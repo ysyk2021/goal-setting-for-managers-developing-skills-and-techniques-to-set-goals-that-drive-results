@@ -1,5 +1,4 @@
-Chapter 2: Overview of Goal Setting: Techniques for Overcoming Common Goal Setting Challenges
-=============================================================================================
+# Techniques for Overcoming Common Goal Setting Challenges
 
 Goal setting is an important part of achieving success in any organization. However, there are common challenges that can make it difficult to set and achieve goals. This chapter will provide an overview of goal setting and explore techniques for overcoming common goal setting challenges.
 

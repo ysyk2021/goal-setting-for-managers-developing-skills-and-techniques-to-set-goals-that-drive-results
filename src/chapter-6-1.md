@@ -1,5 +1,4 @@
-Chapter 6: Managing Goal Progress and Performance: Techniques for Managing Goal Progress and Performance
-========================================================================================================
+# Techniques for Managing Goal Progress and Performance
 
 Managing goal progress and performance is critical for achieving success in any organization. In this chapter, we will explore techniques for managing goal progress and performance.
 

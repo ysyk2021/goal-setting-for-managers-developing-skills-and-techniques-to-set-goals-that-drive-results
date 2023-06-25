@@ -1,5 +1,4 @@
-Chapter 2: Overview of Goal Setting: Different Types of Goals
-=============================================================
+# Different Types of Goals
 
 Goal setting involves identifying specific objectives and developing strategies to achieve them. In this chapter, we will explore the different types of goals that organizations can set.
 

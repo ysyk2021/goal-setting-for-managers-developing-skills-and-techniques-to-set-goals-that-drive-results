@@ -1,5 +1,4 @@
-Chapter 6: Managing Goal Progress and Performance: Addressing Obstacles and Adjusting Strategies
-================================================================================================
+# Addressing Obstacles and Adjusting Strategies
 
 Managing goal progress and performance is critical for achieving organizational success. In this chapter, we will explore techniques for addressing obstacles and adjusting strategies to ensure that goals are achieved.
 

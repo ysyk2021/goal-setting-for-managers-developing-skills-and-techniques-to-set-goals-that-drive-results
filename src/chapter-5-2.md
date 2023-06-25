@@ -1,5 +1,4 @@
-Chapter 5: Communicating Goals Effectively: Establishing Clear Expectations
-===========================================================================
+# Establishing Clear Expectations
 
 Establishing clear expectations is critical for communicating goals effectively and ensuring that everyone understands what is expected of them. In this chapter, we will explore techniques for establishing clear expectations.
 

@@ -1,5 +1,4 @@
-Chapter 9: Measuring and Evaluating Goal Setting Effectiveness: Metrics for Measuring Goal Setting Effectiveness
-================================================================================================================
+# Metrics for Measuring Goal Setting Effectiveness
 
 Measuring and evaluating the effectiveness of goal setting is critical for ensuring that organizations are achieving their desired outcomes. In this chapter, we will explore metrics for measuring goal setting effectiveness.
 

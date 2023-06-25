@@ -1,5 +1,4 @@
-Chapter 3: Aligning Goals with Organizational Objectives: Ensuring Consistency with Mission and Vision
-======================================================================================================
+# Ensuring Consistency with Mission and Vision
 
 Aligning goals with organizational objectives is a crucial part of achieving success. This chapter will explore the importance of ensuring consistency with mission and vision when aligning goals with organizational objectives.
 

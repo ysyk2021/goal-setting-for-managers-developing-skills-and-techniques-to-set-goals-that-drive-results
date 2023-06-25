@@ -1,5 +1,4 @@
-Chapter 5: Communicating Goals Effectively: Encouraging Feedback and Dialogue
-=============================================================================
+# Encouraging Feedback and Dialogue
 
 Effective communication is essential for successful goal setting. In this chapter, we will explore the importance of encouraging feedback and dialogue in communicating goals effectively.
 

@@ -1,5 +1,4 @@
-Chapter 9: Measuring and Evaluating Goal Setting Effectiveness: Evaluating Individual and Organizational Performance
-====================================================================================================================
+# Evaluating Individual and Organizational Performance
 
 Measuring and evaluating the effectiveness of goal setting is critical for ensuring that individuals and organizations are achieving their desired outcomes. In this chapter, we will explore techniques for evaluating individual and organizational performance.
 
