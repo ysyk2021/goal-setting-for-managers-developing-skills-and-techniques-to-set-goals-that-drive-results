@@ -8,5 +8,4 @@ This book covers various aspects of goal setting, including strategic planning, 
 
 Whether you're a new manager or looking to hone your skills, Goal Setting for Managers: Developing Skills and Techniques to Set Goals that Drive Results provides valuable insights and practical advice for achieving success in any business setting. With its focus on developing effective goal-setting techniques, this book is a must-read for anyone looking to drive results and achieve their professional goals.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
