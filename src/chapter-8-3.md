@@ -1,4 +1,3 @@
-# Developing a Culture of Continuous Improvement
 
 Developing a culture of continuous improvement is critical for sustaining effective goal setting practices over time. In this chapter, we will explore techniques for developing a culture of continuous improvement.
 

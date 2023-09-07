@@ -1,4 +1,3 @@
-# Techniques for Sustaining Effective Goal Setting Practices
 
 Sustaining effective goal setting practices is critical for achieving long-term organizational success. In this chapter, we will explore techniques for sustaining effective goal setting practices.
 

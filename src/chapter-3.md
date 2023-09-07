@@ -1,5 +1,3 @@
-Chapter 3: Aligning Goals with Organizational Objectives
-========================================================
 
 Aligning goals with organizational objectives is a crucial part of achieving success. This chapter will explore various techniques and strategies for aligning goals with organizational objectives.
 

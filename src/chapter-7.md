@@ -1,5 +1,3 @@
-Chapter 7: Motivating Teams to Achieve Goals
-============================================
 
 Motivating teams to achieve goals is critical for driving success in any organization. In this chapter, we will explore techniques for motivating teams to achieve goals, creating a culture of accountability and ownership, and providing support and encouragement.
 

@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Effective goal setting is a critical aspect of achieving success in any organization. In this chapter, we will explore the definition and importance of goal setting in the managerial context, as well as why understanding the art of goal setting is critical for managerial success.
 
@@ -22,5 +20,4 @@ Conclusion
 ----------
 
 Effective goal setting is a critical component of managerial success. By understanding the definition and importance of goal setting in the managerial context and mastering the art of goal setting, managers can drive results and contribute to overall success in their organizations.
-
 

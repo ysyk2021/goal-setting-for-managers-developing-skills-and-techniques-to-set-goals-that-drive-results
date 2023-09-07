@@ -1,4 +1,3 @@
-# Incorporating Goal Setting into Daily Habits
 
 Incorporating goal setting into daily habits is critical for sustaining effective goal setting practices over time. In this chapter, we will explore techniques for incorporating goal setting into daily habits.
 

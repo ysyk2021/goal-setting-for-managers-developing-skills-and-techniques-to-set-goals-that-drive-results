@@ -1,5 +1,3 @@
-Chapter 2: Overview of Goal Setting
-===================================
 
 Goal setting is a fundamental aspect of achieving success in any organization. This chapter will provide an overview of goal setting and explore different types of goals, the benefits and challenges of goal setting, and techniques for overcoming common goal setting challenges.
 

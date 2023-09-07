@@ -1,5 +1,3 @@
-Chapter 9: Measuring and Evaluating Goal Setting Effectiveness
-==============================================================
 
 Measuring and evaluating goal setting effectiveness is critical for achieving success in any organization. In this chapter, we will explore metrics for measuring goal setting effectiveness, techniques for evaluating individual and organizational performance, and strategies for continuous improvement in goal setting practices.
 

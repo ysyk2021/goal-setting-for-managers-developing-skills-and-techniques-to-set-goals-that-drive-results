@@ -1,4 +1,4 @@
-# Conclusion
+
 
 Effective goal setting is critical for achieving success in any organization. In this book, we have explored the definition and importance of goal setting in the managerial context, as well as techniques and strategies for effective goal setting.
 

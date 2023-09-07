@@ -1,5 +1,3 @@
-Chapter 4: Developing SMART Goals
-=================================
 
 Developing SMART goals is a crucial part of achieving success. This chapter will explore various techniques for developing SMART goals.
 

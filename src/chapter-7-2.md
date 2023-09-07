@@ -1,4 +1,3 @@
-# Creating a Culture of Accountability and Ownership
 
 Creating a culture of accountability and ownership is critical for ensuring that teams are motivated to achieve their goals. In this chapter, we will explore techniques for creating a culture of accountability and ownership.
 

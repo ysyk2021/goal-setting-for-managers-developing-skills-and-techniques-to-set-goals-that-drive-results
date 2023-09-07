@@ -1,5 +1,3 @@
-Chapter 8: Sustaining Effective Goal Setting Practices
-======================================================
 
 In order to achieve long-term success, goal setting must be sustained over time. This chapter will explore various techniques and strategies for sustaining effective goal setting practices.
 

@@ -1,5 +1,3 @@
-Chapter 5: Communicating Goals Effectively
-==========================================
 
 Communicating goals effectively is a crucial part of achieving success. This chapter will explore various techniques for communicating goals effectively.
 
