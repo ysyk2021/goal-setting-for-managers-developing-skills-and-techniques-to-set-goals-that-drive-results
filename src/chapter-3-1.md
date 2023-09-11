@@ -1,5 +1,4 @@
-Chapter 9: Techniques for Aligning Goals with Organizational Objectives
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Aligning individual and team goals with the overarching objectives of an organization is crucial for driving success and achieving desired results. This chapter explores effective techniques for aligning goals with organizational objectives.
 

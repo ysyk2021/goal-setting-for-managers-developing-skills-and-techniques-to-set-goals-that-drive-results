@@ -1,5 +1,4 @@
-Chapter 12: Different Types of Goals
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective goal setting involves considering different types of goals that align with organizational objectives and individual aspirations. This chapter explores various categories of goals and their significance in driving results.
 

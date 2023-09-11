@@ -1,5 +1,4 @@
-Chapter 8: Addressing Obstacles and Adjusting Strategies
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Setting goals is just the first step in driving results as a manager. Along the way, obstacles and challenges are bound to arise and require attention. It is crucial to address these obstacles effectively and be willing to adjust strategies to ensure continued progress. This chapter explores techniques and strategies for addressing obstacles and adjusting strategies in goal setting.
 

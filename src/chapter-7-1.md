@@ -1,5 +1,4 @@
-Chapter 14: Techniques for Motivating Teams to Achieve Goals
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Motivating teams is a critical aspect of goal setting and driving results. This chapter explores various techniques that managers can employ to inspire and motivate their teams towards achieving their goals.
 

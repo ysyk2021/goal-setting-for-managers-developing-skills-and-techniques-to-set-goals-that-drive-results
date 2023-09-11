@@ -1,5 +1,4 @@
-Chapter 10: Prioritizing and Focusing on Key Objectives
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the fast-paced world of management, prioritization and focus are crucial for setting goals that truly drive results. This chapter delves into effective techniques and strategies for prioritizing and focusing on key objectives, ensuring that efforts are directed towards the most impactful goals.
 

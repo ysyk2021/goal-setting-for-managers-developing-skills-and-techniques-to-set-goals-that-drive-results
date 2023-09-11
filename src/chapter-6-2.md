@@ -1,5 +1,4 @@
-Chapter 12: Tracking Metrics and Evaluating Success
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Setting goals is just the first step in driving results as a manager. To ensure progress and measure success, it is essential to track relevant metrics and evaluate performance. This chapter explores techniques and strategies for effectively tracking metrics and evaluating goal achievement.
 

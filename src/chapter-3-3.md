@@ -1,5 +1,4 @@
-Chapter 17: Identifying Key Performance Indicators
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Key Performance Indicators (KPIs) are essential metrics that allow managers to track progress, evaluate performance, and ensure goal alignment. This chapter explores techniques for identifying KPIs effectively.
 

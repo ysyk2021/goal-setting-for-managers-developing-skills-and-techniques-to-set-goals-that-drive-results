@@ -1,5 +1,4 @@
-Chapter 15: Providing Support and Encouragement
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Support and encouragement are vital components of effective goal setting and driving results. This chapter explores various techniques that managers can utilize to provide support and encouragement to their team members.
 

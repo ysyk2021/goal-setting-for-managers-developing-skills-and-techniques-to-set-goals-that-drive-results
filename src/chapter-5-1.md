@@ -1,5 +1,4 @@
-Chapter 16: Techniques for Communicating Goals Effectively
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective communication of goals is essential for managers to drive results and align their team towards a common purpose. This chapter explores various techniques that managers can employ to communicate goals effectively.
 

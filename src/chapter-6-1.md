@@ -1,5 +1,4 @@
-Chapter 9: Techniques for Managing Goal Progress and Performance
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Setting goals is only the beginning; effectively managing their progress and performance is essential for driving results as a manager. This chapter explores techniques and strategies for managing goal progress and performance, ensuring that goals remain on track and contribute to overall success.
 

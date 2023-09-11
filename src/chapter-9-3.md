@@ -1,5 +1,4 @@
-Chapter 20: Continuous Improvement in Goal Setting Practices
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Continuous improvement is essential for managers to enhance their goal-setting practices and drive better results. This chapter focuses on techniques and strategies to continuously improve goal setting within an organization.
 

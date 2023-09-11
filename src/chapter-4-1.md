@@ -1,5 +1,4 @@
-Chapter 5: Techniques for Developing SMART Goals
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Setting effective goals is a crucial part of achieving success as a manager. One popular technique for goal setting is applying the SMART framework. SMART goals are specific, measurable, achievable, relevant, and time-bound, making them more likely to drive results. This chapter explores techniques and strategies for developing SMART goals.
 

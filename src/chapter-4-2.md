@@ -1,5 +1,4 @@
-Chapter 11: Specific, Measurable, Achievable, Relevant, and Time-Bound Criteria
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To set goals that truly drive results, managers must ensure that their goals are well-defined and aligned with the organization's objectives. This chapter explores the use of Specific, Measurable, Achievable, Relevant, and Time-Bound (SMART) criteria to enhance goal-setting effectiveness and increase the chances of success.
 

@@ -1,5 +1,4 @@
-Chapter 13: Encouraging Feedback and Dialogue
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Feedback and open dialogue play a crucial role in effective goal setting and achieving desirable outcomes. This chapter explores the importance of encouraging feedback and dialogue among managers and their team members to enhance goal-setting effectiveness and drive results.
 
